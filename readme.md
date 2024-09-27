@@ -1,4 +1,8 @@
-## Partie I
+# Libft Project
+## Goal
+The goal of this project is to re-code the C standard library, LIBFT, in the context of the first project of the 42 common core. The goal is to recreate the most common functions of the standard library, as well as some additional functions that can be useful in future projects.
+
+## Part I
 - [x] memset
 - [x] bzero
 - [x] memcpy
@@ -23,7 +27,7 @@
 - [x] isprint
 - [x] toupper
 - [x] tolower
-## partie II
+## Part II
 
 - [x] ft_memalloc
 - [x] ft_memdel
@@ -58,4 +62,3 @@
 - [x] ft_lstadd
 - [x] ft_lstiter
 - [x] ft_lstmap
-
