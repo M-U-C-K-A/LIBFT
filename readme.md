@@ -1,3 +1,21 @@
+<p align="center">
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png?raw=true" alt="ready to help"/>
+</p>
+
+<h1 align="center">
+ LIBFT
+</h1>
+
+<p align="center">
+	<b><i>Your very first own library</i></b><br>
+</p>
+<p align="center">
+	<b><i>124/100</i></b><br>
+</p>
+
+
+
+
 # Libft - Documentation
 
 Cette documentation contient des informations détaillées sur chaque fonction implémentée dans la bibliothèque **libft**, avec leurs prototypes, leur fonctionnement, les paramètres acceptés et les valeurs de retour.
